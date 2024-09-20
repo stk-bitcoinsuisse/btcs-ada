@@ -1,0 +1,25 @@
+{
+    "verification": "verification-string-here-for-pool-claim",
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "Zug, Switzerland",
+        "social": {
+            "twitter_handle": "@BitcoinSuisseAG",
+            "telegram_handle": "bitcoinsuisse_announcements",
+            "facebook_handle": "BitcoinSuisse",
+            "youtube_handle": "BitcoinSuisseAG",
+            "instagram_handle": "bitcoinsuisseag",
+            "linkedin_handle": "bitcoin-suisse-ag"
+        },
+        "company": {
+            "name": "Bitcoin Suisse AG ",
+            "addr": "Grafenauweg 12",
+            "city": "Zug",
+            "country": "Switzerland"
+        },
+        "about": {
+            "company": "Bitcoin Suisse offers the staking of all major proof-of-stake crypto assets and offers the possibility to bake Tezos coins (XTZ)."
+        }
+    }
+}
