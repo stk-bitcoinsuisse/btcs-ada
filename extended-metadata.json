@@ -1,11 +1,11 @@
 {
-    "verification": "verification-string-here-for-pool-claim",
+    "verification": "a5e8759698790c5af5",
     "info": {
-        "url_png_icon_64x64": "http(s) url to pool icon; png format; not animated; max 40kb",
-        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "url_png_icon_64x64": "https://stk-bitcoinsuisse.github.io/btcs-ada/icon.png",
+        "url_png_logo": "https://stk-bitcoinsuisse.github.io/btcs-ada/logo.png",
         "location": "Zug, Switzerland",
         "social": {
-            "twitter_handle": "@BitcoinSuisseAG",
+            "twitter_handle": "BitcoinSuisseAG",
             "telegram_handle": "bitcoinsuisse_announcements",
             "facebook_handle": "BitcoinSuisse",
             "youtube_handle": "BitcoinSuisseAG",
@@ -19,7 +19,7 @@
             "country": "Switzerland"
         },
         "about": {
-            "company": "Bitcoin Suisse offers the staking of all major proof-of-stake crypto assets and offers the possibility to bake Tezos coins (XTZ)."
+            "company": "Bitcoin Suisse provides an all-in-one staking solution for various cryptocurrencies. Let us do the work, while you earn the rewards."
         }
     }
 }
